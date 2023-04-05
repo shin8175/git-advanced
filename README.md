@@ -42,3 +42,9 @@
 ### fetch
 - git fetch 명령어를 사용하면 원격 저장소의 브랜치에 있는 커밋 내역이, 로컬 저장소로 '가져와진다'.
 
+
+## 커밋 되돌리기
+
+### git reset
+- `git reset`을 사용하면 현재 체크아웃한 브랜치의 원하는 과거 커밋으로 HEAD를 이동시키고, 그 이후의 커밋들은 모두 버릴 수 있습니다. 원치 않는 커밋을 되돌릴 때 유용한 명령어 입니다.
+- [참고자료](https://violet-bora-lee.github.io/git-tutorial/#reset)
